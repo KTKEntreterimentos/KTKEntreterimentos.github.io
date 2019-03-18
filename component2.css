@@ -18,8 +18,8 @@ body {
 }
 
 .component {
-	margin-bottom: 3em;
-	height: 43.9em;      
+	margin-bottom: 3em; 
+	height: 43.9em;       
 	background: #e9910e;
 	background: url(../img/fundo1.png);
 	background-attachment: fixed;    
@@ -38,7 +38,6 @@ body {
 }
   
   .table {
-	  width: 98% !important; /*Importante manter o !important rs */
 	  margin: auto;
 	  margin-right: 3px;
 	  margin-top: 3px;
@@ -46,7 +45,6 @@ body {
   }
 
 .div2{
-    width: 1000px;
     margin:0 auto;
     background-color: #fff;
     align-self: center;
@@ -55,9 +53,9 @@ body {
 }
 
 .div1{
-    width: 55em;
-	margin:0 auto;
+    margin:0 auto;
 	margin-top: 1;
+	margin-bottom: 5;
 	border-radius: 12px;
     background-color: #fff;
     align-self: center;
@@ -66,21 +64,18 @@ body {
 }
 
 .component2 {
-	height: 50.9em;
 	font-family: 'Lato', fantasy, sans-serif, ;
 	background: #fff;
 	color: #e9910e;
 }
 
 .component7 {
-	height: 30.9em;
 	font-family: 'Lato', fantasy, sans-serif, ;
 	background: #fff;
 	color: #e9910e;
 }
 
 .component5 {
-	height: 47.9em;
 	font-family: 'Lato', fantasy, sans-serif, ;
 	background: #fff;
 	color: #e9910e;
@@ -94,7 +89,6 @@ body {
   }
 
   .div4{
-    width: 300px;
     margin:0 auto;
     background-color:white;
     align-self: center;
@@ -112,14 +106,12 @@ body {
   }
 
 .component3 {
-	height:51em;
 	font-family: 'Lato', Arial, sans-serif;
 	background: #e9910e;
 	color: rgb(243, 235, 235);
 }
 
 .component6 {
-	height:48em;
 	font-family: 'Lato', Arial, sans-serif;
 	background: #e9910e;
 	color: rgb(243, 235, 235);
@@ -127,7 +119,6 @@ body {
 .component > h2 {
 	position: absolute;
 	overflow: hidden;
-	width: 100%;
 	text-align: center;
 	text-transform: uppercase;
 	white-space: nowrap;
@@ -141,7 +132,6 @@ body {
 .component2 > h4 {
 	position: absolute;
 	overflow: hidden;
-	width: 100%;
 	text-align: center;
 	text-transform: uppercase;
 	white-space: nowrap;
